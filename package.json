@@ -1,0 +1,23 @@
+{
+  "name": "study-bunny",
+  "version": "1.0.0",
+  "description": "trial version of the study bunny bot",
+  "main": "main.js",
+  "author": "tara-s-r",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/tara-s-r/studyBunny-discord.git"
+  },
+  "license": "GPL-2.0-or-later",
+  "dependencies": {
+    "discord.js": "^12.5.3"
+  },
+  "bugs": {
+    "url": "https://github.com/tara-s-r/studyBunny-discord/issues"
+  },
+  "homepage": "https://github.com/tara-s-r/studyBunny-discord#readme",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
